@@ -1,7 +1,7 @@
 {
-  "name": "react-logging-backend",
+  "name": "backend-for-spas",
   "version": "1.0.0",
-  "description": "A boilerplate backend with full user crud to serve any SPA app using JWT.  ",
+  "description": "A backend to serve any SPA app using JWTs for auth.",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js --exec babel-node --presets es2015,stage-2"
